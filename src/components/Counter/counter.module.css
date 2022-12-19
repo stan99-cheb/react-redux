@@ -1,0 +1,39 @@
+.title {
+    margin: 100px 0 0;
+    text-align: center;
+}
+
+.container {
+    margin: 20px auto 0;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.sub {
+    margin: 0;
+    text-align: center;
+    font-size: 32px;
+}
+
+.sub:hover {
+    cursor: pointer;
+}
+
+.counter {
+    margin: 0;
+    text-align: center;
+    font-size: 32px;
+}
+
+.plus {
+    margin: 0;
+    text-align: center;
+    font-size: 32px;
+}
+
+.plus:hover {
+    cursor: pointer;
+}
