@@ -27,6 +27,10 @@ const Counter = () => {
                     +
                 </p>
             </div>
+            <div className={styles.box}>
+                <input className={styles.input}></input>
+                <button className={styles.box__button}>Добавить значение</button>
+            </div>
         </div>
     )
 }
